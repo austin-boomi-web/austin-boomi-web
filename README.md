@@ -1,5 +1,6 @@
-## Hi there 👋
+Currently leading a great web team at Boomi
 
+Connect on [LinkedIn](https://www.linkedin.com/in/austingiardullo/)
 <!--
 **austin-boomi-web/austin-boomi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
